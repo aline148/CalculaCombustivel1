@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计算燃料</string>
+    <string name="textview_gasolina">汽油价格高</string>
+    <string name="textview_etanol">乙醇的升价</string>
+    <string name="hint">最好使用......</string>
+</resources>

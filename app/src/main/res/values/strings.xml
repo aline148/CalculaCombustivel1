@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculates Fuel</string>
+    <string name="textview_gasolina">Price of gasoline liter</string>
+    <string name="textview_etanol">Price of the liter of ethanol</string>
+    <string name="hint">It´s better to use...</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcula Combustível</string>
+    <string name="textview_gasolina">Preço do litro da gasolina</string>
+    <string name="textview_etanol">Preço do litro do Etanol</string>
+    <string name="hint">É melhor usar...</string>
+</resources>
